@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgendaMVP2</string>
+    <string name="categoria_familia">Familia</string>
+    <string name="categoria_amigos">Amigos</string>
+    <string name="categoria_compañeros">Compañeros</string>
+    <string name="categoria_otros">Otros</string>
+    <string name="categoria_importado">Importado</string>
+    <string name="buscar_contacto">Buscar contacto</string>
+    <string name="importar_tus_contactos_de_android">Importar tus contactos de Android</string>
+    <string name="borrar_contactos_de_tu_agenda">Borrar contactos de tu agenda</string>
+    <string name="borrar_tu_agenda_completa">Borrar tu agenda completa</string>buscar_en_searchview
+    <string name="buscar_en_searchview">Buscar nombre</string>
+</resources>
